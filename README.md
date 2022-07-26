@@ -1,2 +1,2 @@
 # arztseite
-Webseite für eine Hausärztin
+Website for a German GP
